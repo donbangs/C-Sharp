@@ -1,0 +1,10 @@
+D:\c sharp\Struct\Struct\bin\Debug\Struct.exe.config
+D:\c sharp\Struct\Struct\bin\Debug\Struct.exe
+D:\c sharp\Struct\Struct\bin\Debug\Struct.pdb
+D:\c sharp\Struct\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+D:\c sharp\Struct\Struct\obj\Debug\Struct.Form1.resources
+D:\c sharp\Struct\Struct\obj\Debug\Struct.Properties.Resources.resources
+D:\c sharp\Struct\Struct\obj\Debug\Struct.csproj.GenerateResource.cache
+D:\c sharp\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+D:\c sharp\Struct\Struct\obj\Debug\Struct.exe
+D:\c sharp\Struct\Struct\obj\Debug\Struct.pdb

@@ -1,0 +1,20 @@
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+C:\Users\macie\Source\Repos\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+D:\c sharp\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+D:\c sharp\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+D:\c sharp\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+D:\c sharp\Notatnik\Notatnik\obj\Debug\Notatnik.pdb

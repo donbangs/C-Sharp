@@ -1,0 +1,63 @@
+F:\c sharp\Osobyy\Osobyy\bin\Debug\Osobyy.exe.config
+F:\c sharp\Osobyy\Osobyy\bin\Debug\Osobyy.exe
+F:\c sharp\Osobyy\Osobyy\bin\Debug\Osobyy.pdb
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.csprojAssemblyReference.cache
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.Form1.resources
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.Properties.Resources.resources
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.csproj.GenerateResource.cache
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.csproj.CoreCompileInputs.cache
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.exe
+F:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.pdb
+D:\c sharp\Osobyy\Osobyy\bin\Debug\Osobyy.exe.config
+D:\c sharp\Osobyy\Osobyy\bin\Debug\Osobyy.exe
+D:\c sharp\Osobyy\Osobyy\bin\Debug\Osobyy.pdb
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.csprojAssemblyReference.cache
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.Form1.resources
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.Properties.Resources.resources
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.csproj.GenerateResource.cache
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.csproj.CoreCompileInputs.cache
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.exe
+D:\c sharp\Osobyy\Osobyy\obj\Debug\Osobyy.pdb
+D:\c sharp\Osobyy — kopia\Osobyy\bin\Debug\Osobyy.exe.config
+D:\c sharp\Osobyy — kopia\Osobyy\bin\Debug\Osobyy.exe
+D:\c sharp\Osobyy — kopia\Osobyy\bin\Debug\Osobyy.pdb
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.csprojAssemblyReference.cache
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.Form1.resources
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.Properties.Resources.resources
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.csproj.GenerateResource.cache
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.csproj.CoreCompileInputs.cache
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.exe
+D:\c sharp\Osobyy — kopia\Osobyy\obj\Debug\Osobyy.pdb
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.exe.config
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.exe
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.pdb
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Form1.resources
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Properties.Resources.resources
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csproj.GenerateResource.Cache
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csproj.CoreCompileInputs.cache
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.exe
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.pdb
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Sortowanie.resources
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.exe.config
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.exe
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.pdb
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csprojAssemblyReference.cache
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Form1.resources
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Properties.Resources.resources
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Sortowanie.resources
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csproj.GenerateResource.cache
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csproj.CoreCompileInputs.cache
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.exe
+E:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.pdb
+D:\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.exe.config
+D:\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.exe
+D:\c sharp\Osobyy -Dobre\Osobyy\bin\Debug\Osobyy.pdb
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csprojAssemblyReference.cache
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Form1.resources
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Properties.Resources.resources
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.Sortowanie.resources
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csproj.GenerateResource.cache
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csproj.CoreCompileInputs.cache
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.exe
+D:\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.pdb
+F:\semestr2\c sharp\Osobyy -Dobre\Osobyy\obj\Debug\Osobyy.csprojAssemblyReference.cache

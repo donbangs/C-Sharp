@@ -1,0 +1,15 @@
+D:\c sharp\Zdarzenia\Zdarzenia\bin\Debug\Zdarzenia.exe.config
+D:\c sharp\Zdarzenia\Zdarzenia\bin\Debug\Zdarzenia.exe
+D:\c sharp\Zdarzenia\Zdarzenia\bin\Debug\Zdarzenia.pdb
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.csprojAssemblyReference.cache
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\MainWindow.g.cs
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\App.g.cs
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia_MarkupCompile.cache
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia_MarkupCompile.lref
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\MainWindow.baml
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.g.resources
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.Properties.Resources.resources
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.csproj.GenerateResource.cache
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.csproj.CoreCompileInputs.cache
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.exe
+D:\c sharp\Zdarzenia\Zdarzenia\obj\Debug\Zdarzenia.pdb

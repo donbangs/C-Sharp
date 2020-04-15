@@ -1,0 +1,10 @@
+D:\c sharp\obrazek\obrazek\bin\Debug\obrazek.exe.config
+D:\c sharp\obrazek\obrazek\bin\Debug\obrazek.exe
+D:\c sharp\obrazek\obrazek\bin\Debug\obrazek.pdb
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.csprojAssemblyReference.cache
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.Form1.resources
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.Properties.Resources.resources
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.csproj.GenerateResource.cache
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.csproj.CoreCompileInputs.cache
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.exe
+D:\c sharp\obrazek\obrazek\obj\Debug\obrazek.pdb

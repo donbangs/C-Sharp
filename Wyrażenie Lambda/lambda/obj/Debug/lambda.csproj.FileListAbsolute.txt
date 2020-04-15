@@ -1,0 +1,10 @@
+D:\c sharp\lambda\lambda\bin\Debug\lambda.exe.config
+D:\c sharp\lambda\lambda\bin\Debug\lambda.exe
+D:\c sharp\lambda\lambda\bin\Debug\lambda.pdb
+D:\c sharp\lambda\lambda\obj\Debug\lambda.csprojAssemblyReference.cache
+D:\c sharp\lambda\lambda\obj\Debug\lambda.Lambda.resources
+D:\c sharp\lambda\lambda\obj\Debug\lambda.Properties.Resources.resources
+D:\c sharp\lambda\lambda\obj\Debug\lambda.csproj.GenerateResource.cache
+D:\c sharp\lambda\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+D:\c sharp\lambda\lambda\obj\Debug\lambda.exe
+D:\c sharp\lambda\lambda\obj\Debug\lambda.pdb

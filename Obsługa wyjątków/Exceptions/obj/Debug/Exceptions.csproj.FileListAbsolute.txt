@@ -1,0 +1,10 @@
+D:\c sharp\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\c sharp\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\c sharp\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.Form1.resources
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.cache
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\c sharp\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

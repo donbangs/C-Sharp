@@ -1,0 +1,20 @@
+D:\c sharp\delagaty\delagaty\bin\Debug\delagaty.exe.config
+D:\c sharp\delagaty\delagaty\bin\Debug\delagaty.exe
+D:\c sharp\delagaty\delagaty\bin\Debug\delagaty.pdb
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.csprojAssemblyReference.cache
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.Form1.resources
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.Properties.Resources.resources
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.csproj.GenerateResource.cache
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.csproj.CoreCompileInputs.cache
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.exe
+D:\c sharp\delagaty\delagaty\obj\Debug\delagaty.pdb
+E:\nowe c sharp\delagaty\delagaty\bin\Debug\delagaty.exe.config
+E:\nowe c sharp\delagaty\delagaty\bin\Debug\delagaty.exe
+E:\nowe c sharp\delagaty\delagaty\bin\Debug\delagaty.pdb
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.csprojAssemblyReference.cache
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.Form1.resources
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.Properties.Resources.resources
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.csproj.GenerateResource.cache
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.csproj.CoreCompileInputs.cache
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.exe
+E:\nowe c sharp\delagaty\delagaty\obj\Debug\delagaty.pdb

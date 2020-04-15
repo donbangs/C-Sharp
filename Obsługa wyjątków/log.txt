@@ -1,0 +1,16 @@
+﻿System.FormatException: Format jednego ze zidentyfikowanych elementów był nieprawidłowy.
+   w Exceptions.Licz.obwod_trojkata(String q, String w, String e) w D:\c sharp\Exceptions\Exceptions\Licz.cs:wiersz 30
+   w Exceptions.Form1.button1_Click(Object sender, EventArgs e) w D:\c sharp\Exceptions\Exceptions\Form1.cs:wiersz 2626.04.2019 13:51:22
+
+System.FormatException: Format jednego ze zidentyfikowanych elementów był nieprawidłowy.
+   w Exceptions.Licz.pole_kwadratu(String q, String w) w D:\c sharp\Exceptions\Exceptions\Licz.cs:wiersz 53
+   w Exceptions.Form1.button2_Click(Object sender, EventArgs e) w D:\c sharp\Exceptions\Exceptions\Form1.cs:wiersz 3926.04.2019 13:51:38
+
+System.FormatException: Format jednego ze zidentyfikowanych elementów był nieprawidłowy.
+   w Exceptions.Licz.dzielenie(String q, String w) w D:\c sharp\Exceptions\Exceptions\Licz.cs:wiersz 76
+   w Exceptions.Form1.button3_Click(Object sender, EventArgs e) w D:\c sharp\Exceptions\Exceptions\Form1.cs:wiersz 5226.04.2019 13:51:46
+
+System.FormatException: Format jednego ze zidentyfikowanych elementów był nieprawidłowy.
+   w Exceptions.Licz.mnozenie(String q, String w) w D:\c sharp\Exceptions\Exceptions\Licz.cs:wiersz 97
+   w Exceptions.Form1.button4_Click(Object sender, EventArgs e) w D:\c sharp\Exceptions\Exceptions\Form1.cs:wiersz 7126.04.2019 13:53:29
+
