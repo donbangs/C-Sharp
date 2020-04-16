@@ -1,0 +1,15 @@
+D:\Wpf\Animacje\Animacje\bin\Debug\Animacje.exe.config
+D:\Wpf\Animacje\Animacje\bin\Debug\Animacje.exe
+D:\Wpf\Animacje\Animacje\bin\Debug\Animacje.pdb
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.csprojAssemblyReference.cache
+D:\Wpf\Animacje\Animacje\obj\Debug\MainWindow.g.cs
+D:\Wpf\Animacje\Animacje\obj\Debug\App.g.cs
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje_MarkupCompile.cache
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje_MarkupCompile.lref
+D:\Wpf\Animacje\Animacje\obj\Debug\MainWindow.baml
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.g.resources
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.Properties.Resources.resources
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.csproj.GenerateResource.cache
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.csproj.CoreCompileInputs.cache
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.exe
+D:\Wpf\Animacje\Animacje\obj\Debug\Animacje.pdb

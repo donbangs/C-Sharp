@@ -1,0 +1,69 @@
+﻿<Window x:Class="Animacje.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Animacje"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+            <ColumnDefinition>
+
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Name="Button1"  Content="Kliknij" Click="Button1_Click" ></Button>
+        <Button Grid.Row="2" Grid.Column="1" Name="Button2"  Content="Render" Click="Button2_Click" ></Button>
+        <Button Grid.Row="2" Name="Button3"  Content="Layout" Click="Button3_Click" ></Button>
+
+        <Image Name="Image1" Grid.Column="1" Stretch="Fill" ></Image>
+
+        <StackPanel Grid.Column="3" Margin="10">
+            <Rectangle
+                Name="MyRectangle" 
+                Stretch="Fill"
+                Height="122"
+                Width="auto"
+                Fill="Blue">
+                <Rectangle.Triggers>
+
+                    <EventTrigger RoutedEvent="Rectangle.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation To="Red" 
+                                  
+                                    Storyboard.TargetProperty="(Rectangle.Fill).(SolidColorBrush.Color)" 
+                                     AutoReverse="True"
+                                     RepeatBehavior ="Forever"
+                                     Duration="0:0:2"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Rectangle.Triggers>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Name="myStackPanel" Grid.Column="1" Grid.Row="1">
+            <Button Height="136" Name="myButton" Grid.Column="1" Grid.Row="1" Click="MyButton_Click"/>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

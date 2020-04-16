@@ -1,0 +1,17 @@
+D:\Wpf\Osooba\Osooba\obj\Debug\MainWindow.g.cs
+D:\Wpf\Osooba\Osooba\obj\Debug\App.g.cs
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba_MarkupCompile.cache
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba_MarkupCompile.lref
+D:\Wpf\Osooba\Osooba\bin\Debug\Osooba.exe.config
+D:\Wpf\Osooba\Osooba\bin\Debug\Osooba.exe
+D:\Wpf\Osooba\Osooba\bin\Debug\Osooba.pdb
+D:\Wpf\Osooba\Osooba\obj\Debug\MainWindow.baml
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.g.resources
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.Properties.Resources.resources
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.csproj.GenerateResource.cache
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.csproj.CoreCompileInputs.cache
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.exe
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.pdb
+D:\Wpf\Osooba\Osooba\obj\Debug\Dodawanie.g.cs
+D:\Wpf\Osooba\Osooba\obj\Debug\Dodawanie.baml
+D:\Wpf\Osooba\Osooba\obj\Debug\Osooba.csprojAssemblyReference.cache
