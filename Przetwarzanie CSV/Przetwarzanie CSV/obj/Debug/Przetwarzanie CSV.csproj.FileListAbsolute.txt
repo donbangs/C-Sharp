@@ -1,0 +1,9 @@
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\bin\Debug\Przetwarzanie CSV.exe.config
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\bin\Debug\Przetwarzanie CSV.exe
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\bin\Debug\Przetwarzanie CSV.pdb
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\obj\Debug\Przetwarzanie CSV.csprojAssemblyReference.cache
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\obj\Debug\Przetwarzanie_CSV.Form1.resources
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\obj\Debug\Przetwarzanie_CSV.Properties.Resources.resources
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\obj\Debug\Przetwarzanie CSV.csproj.GenerateResource.cache
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\obj\Debug\Przetwarzanie CSV.exe
+D:\Laptop\c sharp\Przetwarzanie CSV\Przetwarzanie CSV\obj\Debug\Przetwarzanie CSV.pdb
