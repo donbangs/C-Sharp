@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App3.MainPage">
+
+    <Grid Margin="20,35,20,20">
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+        <Entry x:Name="address"
+               Grid.Row="0"
+               Text="http://89.227.207.10:8080/Thingworx/Things/PSW.MH19278.Thing.MojSensor01/Properties/"/>
+        <Entry x:Name="appKey"
+               Grid.Row="1"
+               Text="499b9165-cfd6-4e1b-b0fc-8d8d5b32a848" />
+        <Entry x:Name="property"
+               Grid.Row="2"
+               Text="Humidity" />
+        <Button Grid.Row="3"
+                Text="Get"
+                Clicked="Button_Clicked" />
+        <Label x:Name="currentValue" Grid.Row="4" Text="Current value:" FontSize="20"/>
+        <Button Grid.Row="6"
+                Text="Update"
+                Clicked="Button_Clicked_1" />
+        <Entry x:Name="ey"
+               Grid.Row="5"
+               Text="" />
+    </Grid>
+
+</ContentPage>
