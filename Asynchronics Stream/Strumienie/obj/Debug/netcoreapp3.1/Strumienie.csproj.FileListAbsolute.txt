@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie_MarkupCompile.cache
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie_MarkupCompile.lref
+C:\Users\HP\source\repos\Strumienie\Strumienie\bin\Debug\netcoreapp3.1\Strumienie.exe
+C:\Users\HP\source\repos\Strumienie\Strumienie\bin\Debug\netcoreapp3.1\Strumienie.deps.json
+C:\Users\HP\source\repos\Strumienie\Strumienie\bin\Debug\netcoreapp3.1\Strumienie.runtimeconfig.json
+C:\Users\HP\source\repos\Strumienie\Strumienie\bin\Debug\netcoreapp3.1\Strumienie.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Strumienie\Strumienie\bin\Debug\netcoreapp3.1\Strumienie.dll
+C:\Users\HP\source\repos\Strumienie\Strumienie\bin\Debug\netcoreapp3.1\Strumienie.pdb
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie.g.resources
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie.AssemblyInfo.cs
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie.dll
+C:\Users\HP\source\repos\Strumienie\Strumienie\obj\Debug\netcoreapp3.1\Strumienie.pdb

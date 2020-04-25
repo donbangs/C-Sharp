@@ -22,17 +22,17 @@ namespace Przetwarzanie_CSV
         internal static Car TransformToCar(string line)
         {
              string[] columns = line.Split(',');
-
+            for (var i = 0; i < columns.Length; i++) columns[i] = columns[i].Trim('\'', '"');
             return new Car
                 {
-                    Year = int.Parse(Convert.ToString(columns[0])),
-                    Manufacturer = Convert.ToString(columns[1]),
-                    Name = Convert.ToString(columns[2]),
-                    Displacement = double.Parse(Convert.ToString(columns[3])),
-                    Cylinders = int.Parse(Convert.ToString(columns[4])),
-                    City = int.Parse(Convert.ToString(columns[5])),
-                    Highway = int.Parse(Convert.ToString(columns[6])),
-                    Combined = int.Parse(Convert.ToString(columns[7]))
+                    Year = int.Parse(columns[0]),
+                    Manufacturer = columns[1],
+                    Name = columns[2],
+                    Displacement = double.Parse(columns[3]),
+                    Cylinders = int.Parse(columns[4]),
+                    City = int.Parse(columns[5]),
+                    Highway = int.Parse(columns[6]),
+                    Combined = int.Parse(columns[7])
 
                 };
             
